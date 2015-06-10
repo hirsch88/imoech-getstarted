@@ -21,6 +21,7 @@
 Git allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It's a distributed version control system.
 - [Course GIT](https://try.github.io/levels/1/challenges/1)
 - [Tutorial Bitbucket & SourceTree](https://bitbucket.org/tutorials/sourcetree-starter-b)
+- [Doc to Git-Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 # Learn AngularJS
 Angular is a development platform for building mobile and desktop web applications.
