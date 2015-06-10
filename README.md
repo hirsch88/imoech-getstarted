@@ -9,7 +9,7 @@
 ## Tools
 1. Install [SourceTree](https://www.sourcetreeapp.com/)
 2. Install one of these IDE's
-  - [WebStorm](https://www.jetbrains.com/webstorm/)
+  - [WebStorm](https://www.jetbrains.com/webstorm/) *recommended*
   - [Sublime](http://www.sublimetext.com/)
   - VisualStudio
 
